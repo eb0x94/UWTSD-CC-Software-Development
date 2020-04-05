@@ -1,0 +1,13 @@
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.exe
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.deps.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\bin\Debug\netcoreapp3.1\p04_SnakesAndLadders.pdb
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.pdb
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\p04_SnakesAndLadders\obj\Debug\netcoreapp3.1\p04_SnakesAndLadders.genruntimeconfig.cache

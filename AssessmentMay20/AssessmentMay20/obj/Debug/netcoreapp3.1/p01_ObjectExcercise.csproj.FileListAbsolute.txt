@@ -1,0 +1,26 @@
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.exe
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.deps.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.pdb
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.pdb
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.genruntimeconfig.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.exe
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.deps.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.runtimeconfig.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.runtimeconfig.dev.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.dll
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\bin\Debug\netcoreapp3.1\p01_ObjectExcercise.pdb
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.csprojAssemblyReference.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.AssemblyInfoInputs.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.AssemblyInfo.cs
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.dll
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.pdb
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\AssessmentMay20\obj\Debug\netcoreapp3.1\p01_ObjectExcercise.genruntimeconfig.cache

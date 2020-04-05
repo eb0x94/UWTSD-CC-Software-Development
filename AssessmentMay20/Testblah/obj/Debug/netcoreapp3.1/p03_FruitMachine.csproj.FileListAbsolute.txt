@@ -1,0 +1,26 @@
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.exe
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.deps.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.dev.json
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.csproj.CoreCompileInputs.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfoInputs.cache
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfo.cs
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.genruntimeconfig.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.exe
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.deps.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\bin\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\Testblah\obj\Debug\netcoreapp3.1\p03_FruitMachine.genruntimeconfig.cache
