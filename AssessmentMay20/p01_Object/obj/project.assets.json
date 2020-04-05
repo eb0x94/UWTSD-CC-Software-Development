@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\p02_Area\\p02_Area.csproj",
-      "projectName": "p02_Area",
-      "projectPath": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\p02_Area\\p02_Area.csproj",
+      "projectUniqueName": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\AssessmentMay20\\p01_ObjectExcercise.csproj",
+      "projectName": "p01_ObjectExcercise",
+      "projectPath": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\AssessmentMay20\\p01_ObjectExcercise.csproj",
       "packagesPath": "C:\\Users\\megap\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\p02_Area\\obj\\",
+      "outputPath": "C:\\Users\\megap\\OneDrive\\Documents\\GitHub Repos\\AssessmentSODApr2020UWTSD\\UWTSD-CC-Software-Development\\AssessmentMay20\\AssessmentMay20\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\megap\\AppData\\Roaming\\NuGet\\NuGet.Config",
