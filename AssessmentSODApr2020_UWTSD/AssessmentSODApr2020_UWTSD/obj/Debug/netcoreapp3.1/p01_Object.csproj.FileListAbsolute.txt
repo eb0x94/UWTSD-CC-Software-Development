@@ -10,3 +10,4 @@ C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-C
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.dll
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.pdb
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.genruntimeconfig.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.csprojAssemblyReference.cache
