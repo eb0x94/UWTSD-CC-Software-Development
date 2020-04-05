@@ -3,11 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29926.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p01_Object", "AssessmentSODApr2020_UWTSD\p01_Object.csproj", "{C2C75BA3-A015-4E0C-A08C-26FD723F1F92}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p01_Object", "AssessmentSODApr2020_UWTSD\p01_Object.csproj", "{C2C75BA3-A015-4E0C-A08C-26FD723F1F92}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p02_Area", "p02_Area\p02_Area.csproj", "{1D7FE39D-097D-48F6-B585-8E1012D5A585}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p02_Area", "p02_Area\p02_Area.csproj", "{1D7FE39D-097D-48F6-B585-8E1012D5A585}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p03_FruitMachine", "p03_FrucitMachine\p03_FruitMachine.csproj", "{0A95DFBB-17F9-414F-8C0F-E46F838CF1B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p03_FruitMachine", "p03_FrucitMachine\p03_FruitMachine.csproj", "{0A95DFBB-17F9-414F-8C0F-E46F838CF1B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p04_Snakes_And_Ladders", "WindowsFormsApp1\p04_Snakes_And_Ladders.csproj", "{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{0A95DFBB-17F9-414F-8C0F-E46F838CF1B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0A95DFBB-17F9-414F-8C0F-E46F838CF1B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0A95DFBB-17F9-414F-8C0F-E46F838CF1B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
