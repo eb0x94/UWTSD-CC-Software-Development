@@ -1,0 +1,12 @@
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.exe
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.deps.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\bin\Debug\netcoreapp3.1\p01_Object.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\AssessmentSODApr2020_UWTSD\obj\Debug\netcoreapp3.1\p01_Object.genruntimeconfig.cache

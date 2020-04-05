@@ -1,0 +1,12 @@
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.exe
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.deps.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\bin\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.genruntimeconfig.cache
