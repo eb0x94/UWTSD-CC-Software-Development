@@ -18,3 +18,13 @@ C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software
 C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
 C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
 C:\Users\Ivaylo Hristov\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\p04_Snakes_And_Ladders.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\p04_Snakes_And_Ladders.csproj.GenerateResource.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\p04_Snakes_And_Ladders.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
