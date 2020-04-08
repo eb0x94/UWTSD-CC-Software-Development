@@ -1,29 +1,41 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace WindowsFormsApp1
 {
     static class Logics
     {
-        public static int rollDice(PictureBox px)
+        private const int ROW_LENGTH = 10;
+        public static int rollDice(PictureBox px, string diceImg)
         {
             Random r = new Random();
             int diceNum = r.Next(1, 7);
 
-            px.Image = Image.FromFile(@"C:\Users\megap\OneDrive\Documents\UWTSD Courses\Level 4\Term 2\Software Engineering\VisualStudio\Assessment\AssessmentMay20\WindowsFormsApp1\Resources\Dices\dice " + diceNum + ".jpg");
+            px.Image = Image.FromFile(diceImg + "\\dice " + diceNum + ".jpg");
 
             return diceNum;
         }
 
-        public static void movePlayer(PictureBox player, int dice, int x, int y)
+        public static void movePlayer(PictureBox player, int dice, ref int x, ref int y, ref int pPosition)
         {
-            player.Location = new Point(x, y);
+            bool moveLeft = false;
+            player.Visible = false;
+            int nextPos = pPosition + dice;
+            int rowPos = pPosition;
 
+            if (nextPos > ROW_LENGTH)
+            {
+                rowPos = int.Parse(pPosition.ToString().Substring(1));
+                moveLeft = true;
+            }
+
+            if (moveLeft)
+            {
+
+            }
+            pPosition = nextPos;
+            player.Visible = true;
         }
 
     }
