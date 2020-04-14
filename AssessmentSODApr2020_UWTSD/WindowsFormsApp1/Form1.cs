@@ -29,35 +29,9 @@ namespace WindowsFormsApp1
             this.pictureBox4.Visible = false;
             this.pictureBox3.Image = Image.FromFile(initialDiceImg);
             this.pictureBox3.SizeMode = PictureBoxSizeMode.StretchImage;
-            generateCells();
-        }
-
-        private void generateCells()
-        {
-            int cellIndex = 1;
-            for (int rows = 0; rows < 10; rows++)
-            {
-                if (rows % 2 == 0)
-                {
-                    for (int cols = 0; cols < 10; cols++)
-                    {
-                        cells[rows, cols] = new Cell(posX, posY, cellIndex);
-                        posX += 51;
-                        cellIndex++;
-                    }
-                }
-                else
-                {
-                    posY -= 47;
-                    for (int cols = 0; cols < 10; cols++)
-                    {
-                        cells[rows, cols] = new Cell(posX, posY, cellIndex);
-                        posX -= 51;
-                        cellIndex++;
-                    }
-                }
-            }
-           
+            Logics.generateCells(ref cells, ref posX, ref posY);
+            Logics.initSnakes(ref cells);
+            Logics.initLadders(ref cells);
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -81,20 +55,28 @@ namespace WindowsFormsApp1
         {
             int dice = Logics.rollDice(this.pictureBox3, diceImg);
 
+            label1.Text = dice.ToString();
             if (isRedPlayerIn)
             {
-                Logics.movePlayer(pictureBox4, dice, ref posX, ref posY, ref playerPosition);
+                Logics.MovePlayer(pictureBox4, dice, ref playerPosition, ref cells);
             }
 
 
-            if (dice == 6 && isRedPlayerIn == false)
+            if (dice == 6 && !isRedPlayerIn)
             {
                 isRedPlayerIn = true;
                 this.playerPosition = 1;
                 this.pictureBox1.Visible = false;
                 this.pictureBox4.Visible = true;
-                this.pictureBox4.Location = new Point(posX, posY);
+                this.posX = this.cells[0, 0].getPosX();
+                this.posY = this.cells[0, 0].getPosY();
+                this.pictureBox4.Location = new Point(this.posX, this.posY);
             }
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         private void gameBoard1_Paint(object sender, PaintEventArgs e)
