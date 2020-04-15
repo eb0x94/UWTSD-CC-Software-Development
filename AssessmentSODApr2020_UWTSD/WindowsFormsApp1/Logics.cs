@@ -21,27 +21,29 @@ namespace WindowsFormsApp1
         {
             player.Visible = false;
             int nextPos = pPosition + dice;
+            int nextRow = 0;
+            int nextCol = 0;
 
-            for (int rows = 0; rows < 10; rows++)
+
+            for (int rows = 0; rows <= cell.GetLength(0) - 1; rows++)
             {
-                for (int cols = 0; cols < 10; cols++)
+                for (int cols = 0; cols <= cell.GetLength(1) - 1; cols++)
                 {
                     if (nextPos == cell[rows, cols].getIndex())
                     {
-                        if (cell[rows, cols].getLadder())
+                        nextRow = rows;
+                        nextCol = cols;
+                        if (cell[rows, cols].getLadder() || cell[rows, cols].getSnake())
                         {
-                            int target = cell[rows, cols].getTargetIndex();
-                            break;
+                            nextRow = cell[rows, cols].getTargetIndex()[0];
+                            nextCol = cell[rows, cols].getTargetIndex()[1];
                         }
-                        else if (cell[rows, cols].getSnake())
-                        {
-                            break;
-                        }
-                        player.Location = new Point(cell[rows, cols].getPosX(), cell[rows, cols].getPosY());
+                        player.Location = new Point(cell[nextRow, nextCol].getPosX(), cell[nextRow, nextCol].getPosY());
+                        pPosition = cell[nextRow, nextCol].getIndex();
+                        break;
                     }
                 }
             }
-            pPosition = nextPos;
             player.Visible = true;
         }
 
@@ -50,14 +52,14 @@ namespace WindowsFormsApp1
         internal static void generateCells(ref Cell[,] cells, ref int posX, ref int posY)
         {
             int cellIndex = 1;
-            for (int rows = 0; rows < 10; rows++)
+            for (int rows = 0; rows <= cells.GetLength(0) - 1; rows++)
             {
                 if (rows % 2 == 0)
                 {
-                    for (int cols = 0; cols < 10; cols++)
+                    for (int cols = 0; cols <= cells.GetLength(1) - 1; cols++)
                     {
 
-                        cells[rows, cols] = new Cell(posX, posY, cellIndex);
+                        cells[rows, cols] = new Cell(posX, posY, cellIndex, rows, cols);
                         if (cols == 9)
                         {
                             posY -= 45;
@@ -70,12 +72,10 @@ namespace WindowsFormsApp1
                 }
                 else
                 {
-
-                    for (int cols = 10; cols > 0; cols--)
+                    for (int cols = cells.GetLength(1) - 1; cols >= 0; cols--)
                     {
-
-                        cells[rows, cols - 1] = new Cell(posX, posY, cellIndex);
-                        if (cols == 1)
+                        cells[rows, cols] = new Cell(posX, posY, cellIndex, rows, cols);
+                        if (cols == 0)
                         {
                             posY -= 45;
                             cellIndex++;
@@ -84,6 +84,7 @@ namespace WindowsFormsApp1
                         posX -= 51;
                         cellIndex++;
                     }
+
                 }
 
             }
@@ -110,7 +111,7 @@ namespace WindowsFormsApp1
                             cells[rows, cols].setLadder(true);
                             break;
                         case 28:
-                            cells[rows, cols].setTargetIndex(84); 
+                            cells[rows, cols].setTargetIndex(84);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 51:
@@ -118,7 +119,7 @@ namespace WindowsFormsApp1
                             cells[rows, cols].setLadder(true);
                             break;
                         case 71:
-                            cells[rows, cols].setTargetIndex(91); 
+                            cells[rows, cols].setTargetIndex(91);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 80:
