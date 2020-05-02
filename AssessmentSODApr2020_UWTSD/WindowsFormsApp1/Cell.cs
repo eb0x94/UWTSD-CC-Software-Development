@@ -15,7 +15,7 @@ namespace WindowsFormsApp1
         private int posY;
         private bool isLadder;
         private bool isSnake;
-        private int targetIndex;
+        private int[] targetIndex;
 
         public Cell(int xpos, int ypos, int index, int rowIndex, int colIndex)
         {
@@ -26,28 +26,14 @@ namespace WindowsFormsApp1
             this.index = index;
             this.isLadder = false;
             this.isSnake = false;
-            this.targetIndex = index;
+            this.targetIndex = new int[] { rowIndex, colIndex };
         }
 
 
-        public void setTargetIndex(int target)
+        public void setTargetIndex(int newRow, int newCol)
         {
-            string targetToStr = String.Empty;
-            if (target < 10)
-            {
-                targetToStr += "0";
-                targetToStr += target.ToString();
-                this.rowIndex = int.Parse(targetToStr[0].ToString());
-                this.colIndex = int.Parse(targetToStr[1].ToString()) - 1;
-            }
-            else
-            {
-                targetToStr = target.ToString();
-                this.rowIndex = int.Parse(targetToStr[0].ToString());
-                this.colIndex = 10 - (int.Parse(targetToStr[1].ToString()));
-            }
-
-            this.targetIndex = target;
+            this.targetIndex[0] = newRow;
+            this.targetIndex[1] = newCol;
         }
         public void setLadder(bool ladder)
         {
@@ -66,8 +52,7 @@ namespace WindowsFormsApp1
 
         public int[] getTargetIndex()
         {
-            int[] targetArray = new int[] { this.rowIndex, colIndex };
-            return targetArray;
+            return this.targetIndex;
         }
 
         public bool getSnake()

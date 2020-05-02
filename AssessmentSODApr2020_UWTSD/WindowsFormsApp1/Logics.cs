@@ -20,9 +20,10 @@ namespace WindowsFormsApp1
         internal static void MovePlayer(PictureBox player, int dice, ref int pPosition, ref Cell[,] cell)
         {
             player.Visible = false;
-            int nextPos = pPosition + dice;
+            int nextPos = pPosition + 97;
             int nextRow = 0;
             int nextCol = 0;
+            bool isFound = false;
 
 
             for (int rows = 0; rows <= cell.GetLength(0) - 1; rows++)
@@ -31,6 +32,7 @@ namespace WindowsFormsApp1
                 {
                     if (nextPos == cell[rows, cols].getIndex())
                     {
+                        isFound = true;
                         nextRow = rows;
                         nextCol = cols;
                         if (cell[rows, cols].getLadder() || cell[rows, cols].getSnake())
@@ -42,6 +44,10 @@ namespace WindowsFormsApp1
                         pPosition = cell[nextRow, nextCol].getIndex();
                         break;
                     }
+                }
+                if (isFound)
+                {
+                    break;
                 }
             }
             player.Visible = true;
@@ -99,31 +105,31 @@ namespace WindowsFormsApp1
                     switch (cells[rows, cols].getIndex())
                     {
                         case 4:
-                            cells[rows, cols].setTargetIndex(14);
+                            cells[rows, cols].setTargetIndex(1, 6);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 9:
-                            cells[rows, cols].setTargetIndex(31);
+                            cells[rows, cols].setTargetIndex(3, 9);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 21:
-                            cells[rows, cols].setTargetIndex(42);
+                            cells[rows, cols].setTargetIndex(4, 1);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 28:
-                            cells[rows, cols].setTargetIndex(84);
+                            cells[rows, cols].setTargetIndex(8, 3);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 51:
-                            cells[rows, cols].setTargetIndex(67);
+                            cells[rows, cols].setTargetIndex(6, 6);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 71:
-                            cells[rows, cols].setTargetIndex(91);
+                            cells[rows, cols].setTargetIndex(9, 9);
                             cells[rows, cols].setLadder(true);
                             break;
                         case 80:
-                            cells[rows, cols].setTargetIndex(100);
+                            cells[rows, cols].setTargetIndex(9, 0);
                             cells[rows, cols].setLadder(true);
                             break;
 
@@ -141,35 +147,35 @@ namespace WindowsFormsApp1
                     switch (cells[rows, cols].getIndex())
                     {
                         case 17:
-                            cells[rows, cols].setTargetIndex(7);
+                            cells[rows, cols].setTargetIndex(0, 6);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 54:
-                            cells[rows, cols].setTargetIndex(34);
+                            cells[rows, cols].setTargetIndex(3, 6);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 62:
-                            cells[rows, cols].setTargetIndex(19);
+                            cells[rows, cols].setTargetIndex(1, 1);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 64:
-                            cells[rows, cols].setTargetIndex(60);
+                            cells[rows, cols].setTargetIndex(5, 0);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 87:
-                            cells[rows, cols].setTargetIndex(24);
+                            cells[rows, cols].setTargetIndex(2, 3);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 93:
-                            cells[rows, cols].setTargetIndex(73);
+                            cells[rows, cols].setTargetIndex(7, 7);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 95:
-                            cells[rows, cols].setTargetIndex(75);
+                            cells[rows, cols].setTargetIndex(7, 5);
                             cells[rows, cols].setSnake(true);
                             break;
                         case 98:
-                            cells[rows, cols].setTargetIndex(79);
+                            cells[rows, cols].setTargetIndex(7, 1);
                             cells[rows, cols].setSnake(true);
                             break;
 
