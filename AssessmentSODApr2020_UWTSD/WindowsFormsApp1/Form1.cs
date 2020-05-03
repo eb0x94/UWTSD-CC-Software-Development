@@ -32,6 +32,7 @@ namespace WindowsFormsApp1
             Logics.generateCells(ref cells, ref posX, ref posY);
             Logics.initSnakes(ref cells);
             Logics.initLadders(ref cells);
+            this.label4.Text = "Roll a 6 to enter the game.";
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -54,11 +55,18 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             int dice = Logics.rollDice(this.pictureBox3, diceImg);
+            label1.Text = "Dice: " + dice.ToString();
 
-            label1.Text = dice.ToString();
+            if(playerPosition + dice > 100)
+            {
+                label4.Text = "Next posistion is out of board.\nPlease, roll again.";
+            }
+            
+            
             if (isRedPlayerIn)
             {
-                Logics.MovePlayer(pictureBox4, dice, ref playerPosition, ref cells);
+                Logics.MovePlayer(pictureBox4, dice, ref playerPosition, ref cells, ref label4);
+                this.label2.Text = "Position: " + this.playerPosition;
             }
 
 
@@ -71,10 +79,22 @@ namespace WindowsFormsApp1
                 this.posX = this.cells[0, 0].getPosX();
                 this.posY = this.cells[0, 0].getPosY();
                 this.pictureBox4.Location = new Point(this.posX, this.posY);
+                this.label2.Text = "Position: " + this.playerPosition;
+                this.label4.Text = "You entered the game.";
             }
         }
 
         private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label4_Click(object sender, EventArgs e)
         {
 
         }

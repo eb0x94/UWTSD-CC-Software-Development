@@ -17,14 +17,13 @@ namespace WindowsFormsApp1
             return diceNum;
         }
 
-        internal static void MovePlayer(PictureBox player, int dice, ref int pPosition, ref Cell[,] cell)
+        internal static void MovePlayer(PictureBox player, int dice, ref int pPosition, ref Cell[,] cell, ref Label label4)
         {
             player.Visible = false;
-            int nextPos = pPosition + 97;
+            int nextPos = pPosition + dice;
             int nextRow = 0;
             int nextCol = 0;
             bool isFound = false;
-
 
             for (int rows = 0; rows <= cell.GetLength(0) - 1; rows++)
             {
@@ -35,19 +34,42 @@ namespace WindowsFormsApp1
                         isFound = true;
                         nextRow = rows;
                         nextCol = cols;
+                        label4.Text = "You are on normal box, please roll the dice.";
                         if (cell[rows, cols].getLadder() || cell[rows, cols].getSnake())
                         {
                             nextRow = cell[rows, cols].getTargetIndex()[0];
                             nextCol = cell[rows, cols].getTargetIndex()[1];
+                            if (cell[rows, cols].getLadder())
+                            {
+                                label4.Text = "You hit on a ladder box at position " + cell[rows, cols].getIndex() + "\nand went up to position " + cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
+                            }
+                            else
+                            {
+                                label4.Text = "You hit a snake box at position " + cell[rows, cols].getIndex() + "\nand went down to position " + cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
+                            }
                         }
                         player.Location = new Point(cell[nextRow, nextCol].getPosX(), cell[nextRow, nextCol].getPosY());
                         pPosition = cell[nextRow, nextCol].getIndex();
                         break;
                     }
+
                 }
                 if (isFound)
                 {
                     break;
+                }
+            }
+            if (pPosition == 100)
+            {
+                label4.Text = "You won the game!!!";
+                DialogResult result = MessageBox.Show("You won!", "You won the game!", MessageBoxButtons.RetryCancel, MessageBoxIcon.Exclamation);
+                if (result == DialogResult.Retry)
+                {
+                    Application.Restart();
+                }
+                else if (result == DialogResult.Cancel)
+                {
+                    Application.Exit();
                 }
             }
             player.Visible = true;
