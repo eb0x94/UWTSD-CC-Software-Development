@@ -1,0 +1,13 @@
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.csprojAssemblyReference.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.csproj.CoreCompileInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.AssemblyInfoInputs.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.AssemblyInfo.cs
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.exe
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.deps.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.runtimeconfig.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.runtimeconfig.dev.json
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\bin\Debug\netcoreapp3.1\TestAppendixApp.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.dll
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.pdb
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\TestAppendixApp\obj\Debug\netcoreapp3.1\TestAppendixApp.genruntimeconfig.cache

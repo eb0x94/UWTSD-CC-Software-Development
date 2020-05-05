@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p03_FruitMachine", "p03_Fru
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p04_Snakes_And_Ladders", "WindowsFormsApp1\p04_Snakes_And_Ladders.csproj", "{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAppendixApp", "TestAppendixApp\TestAppendixApp.csproj", "{AAC5FBBB-1A19-4C63-8CB0-7831722B8308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB97EBB9-8717-4F60-BEAE-6FC02ADF2C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAC5FBBB-1A19-4C63-8CB0-7831722B8308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAC5FBBB-1A19-4C63-8CB0-7831722B8308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAC5FBBB-1A19-4C63-8CB0-7831722B8308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAC5FBBB-1A19-4C63-8CB0-7831722B8308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

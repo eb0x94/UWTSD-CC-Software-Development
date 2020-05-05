@@ -10,3 +10,4 @@ C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-C
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.dll
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.pdb
 C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.genruntimeconfig.cache
+C:\Users\megap\OneDrive\Documents\GitHub Repos\AssessmentSODApr2020UWTSD\UWTSD-CC-Software-Development\AssessmentSODApr2020_UWTSD\p03_FrucitMachine\obj\Debug\netcoreapp3.1\p03_FruitMachine.csprojAssemblyReference.cache

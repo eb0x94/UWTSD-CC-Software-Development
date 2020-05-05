@@ -6,16 +6,24 @@ namespace WindowsFormsApp1
 {
     static class Logics
     {
+        /// <summary>
+        /// This is the a class, which holds all the game logic for all the movement and board control of the charachter.
+        /// </summary>
+        /// <param name="px"></param>
+        /// <param name="diceImg"></param>
+        /// <returns></returns>
         internal static int rollDice(PictureBox px, string diceImg)
         {
+            //generates random value between 1 and 6 for the dice value.
             Random r = new Random();
             int diceNum = r.Next(1, 7);
-
+            // sets the image from the Resource folder string for the corresponding dice value to the passed from outside PictureBox object.
             px.Image = Image.FromFile(diceImg + "\\dice " + diceNum + ".jpg");
 
 
             return diceNum;
         }
+
 
         internal static void MovePlayer(PictureBox player, int dice, ref int pPosition, ref Cell[,] cell, ref Label label4)
         {
@@ -41,11 +49,14 @@ namespace WindowsFormsApp1
                             nextCol = cell[rows, cols].getTargetIndex()[1];
                             if (cell[rows, cols].getLadder())
                             {
-                                label4.Text = "You hit on a ladder box at position " + cell[rows, cols].getIndex() + "\nand went up to position " + cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
+                                label4.Text = "You hit on a ladder box at position "
+                                    + cell[rows, cols].getIndex() + "\nand went up to position " +
+                                    cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
                             }
                             else
                             {
-                                label4.Text = "You hit a snake box at position " + cell[rows, cols].getIndex() + "\nand went down to position " + cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
+                                label4.Text = "You hit a snake box at position " + cell[rows, cols].getIndex() +
+                                    "\nand went down to position " + cell[nextRow, nextCol].getIndex() + "\nPlease, roll the dice.";
                             }
                         }
                         player.Location = new Point(cell[nextRow, nextCol].getPosX(), cell[nextRow, nextCol].getPosY());
@@ -59,6 +70,7 @@ namespace WindowsFormsApp1
                     break;
                 }
             }
+
             if (pPosition == 100)
             {
                 label4.Text = "You won the game!!!";
@@ -118,6 +130,7 @@ namespace WindowsFormsApp1
             }
         }
 
+        //Initalizes the ladders on the board before loading.
         internal static void initLadders(ref Cell[,] cells)
         {
             for (int rows = 0; rows < 10; rows++)
@@ -160,6 +173,7 @@ namespace WindowsFormsApp1
             }
         }
 
+        //Initalizes the snakes on the board before loading.
         internal static void initSnakes(ref Cell[,] cells)
         {
             for (int rows = 0; rows < 10; rows++)

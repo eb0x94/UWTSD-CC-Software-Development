@@ -9,8 +9,6 @@ namespace WindowsFormsApp1
     class Cell
     {
         private int index;
-        private int rowIndex;
-        private int colIndex;
         private int posX;
         private int posY;
         private bool isLadder;
@@ -21,8 +19,6 @@ namespace WindowsFormsApp1
         {
             this.posX = xpos;
             this.posY = ypos;
-            this.rowIndex = rowIndex;
-            this.colIndex = colIndex;
             this.index = index;
             this.isLadder = false;
             this.isSnake = false;

@@ -74,7 +74,6 @@
             this.gameBoard1.Name = "gameBoard1";
             this.gameBoard1.Size = new System.Drawing.Size(506, 449);
             this.gameBoard1.TabIndex = 0;
-            this.gameBoard1.Paint += new System.Windows.Forms.PaintEventHandler(this.gameBoard1_Paint);
             // 
             // pictureBox4
             // 
@@ -87,7 +86,6 @@
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 2;
             this.pictureBox4.TabStop = false;
-            this.pictureBox4.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // pictureBox3
             // 
@@ -97,7 +95,6 @@
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.pictureBox3.TabIndex = 6;
             this.pictureBox3.TabStop = false;
-            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // label1
             // 
@@ -108,7 +105,6 @@
             this.label1.TabIndex = 7;
             this.label1.Text = "Dice:";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // label2
             // 
@@ -129,7 +125,6 @@
             this.label3.Size = new System.Drawing.Size(39, 13);
             this.label3.TabIndex = 9;
             this.label3.Text = "Player:";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label4
             // 
@@ -139,7 +134,6 @@
             this.label4.Size = new System.Drawing.Size(35, 13);
             this.label4.TabIndex = 10;
             this.label4.Text = "label4";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // Form1
             // 
