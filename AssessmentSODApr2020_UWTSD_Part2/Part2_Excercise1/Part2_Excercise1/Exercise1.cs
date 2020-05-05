@@ -26,6 +26,11 @@ namespace Part2_Excercise1
                 {
                     Console.Write("Please, enter a integer number: ");
                     userInput = readNumber();
+                    if(userInput == "")
+                    {
+                        Console.WriteLine();
+                        continue;
+                    }
                     numbers.Add(int.Parse(userInput));
                 }
                 else
